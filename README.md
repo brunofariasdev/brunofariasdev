@@ -1,4 +1,4 @@
-### Hi there, it's me, Yuuh! 👋
+### Hi there, it's me, Bruno! 👋
 
 Meu nome  é Bruno, mas sou conhecido também como Bolinha!
 
