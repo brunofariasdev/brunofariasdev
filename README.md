@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there, it's me, Yuuh! 👋
 
-<!--
-**brunofariasdev/brunofariasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome  é Bruno, mas sou conhecido também como Bolinha!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuka1&layout=compact)](https://github.com/brunofariasdev/github-readme-stats)
+
+🌱 Sou apaixonado pelo frontend, atualmente estou estudando ReactJs 
+
+
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
