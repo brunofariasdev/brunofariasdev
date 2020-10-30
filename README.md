@@ -1,8 +1,30 @@
-### Hi there, it's me, Bruno! 👋
 
-Meu nome  é Bruno, mas sou conhecido também como Bolinha!
+<img align="right" width="200px" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofariasdev&layout=compact)](https://github.com/brunofariasdev/github-readme-stats)
+<p>
+Desenvolvedor Web com foco no FrontEnd , apaixonado por tecnologia amante de JavaScript atualmente aprendendo ReactJs e Vuejs
+</p>
 
-🌱 Sou apaixonado pelo frontend, atualmente estou estudando ReactJs 
-💻 
+<br><br><br><br><br>
+
+---
+
+## <img class="emoji" alt="hammer_and_wrench" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> Skills
+
+<br>
+<div>
+
+
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-%231572B6?logo=css3&logoColor=white)
+
+
+
+![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
+![Node Badge](https://img.shields.io/badge/-Node-%23339933?logo=node.js&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=white)
+![GIT Badge](https://img.shields.io/badge/-GIT-%23F05032?logo=git&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
+
+</div>
