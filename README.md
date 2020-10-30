@@ -1,5 +1,5 @@
 
-<img align="right" width="200px" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+<img align="right" width="200px" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif">
 
 <p>
 Desenvolvedor Web com foco no FrontEnd , apaixonado por tecnologia amante de JavaScript atualmente aprendendo ReactJs e Vuejs
