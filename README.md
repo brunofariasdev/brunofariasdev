@@ -28,3 +28,7 @@ Desenvolvedor Web com foco no FrontEnd , apaixonado por tecnologia amante de Jav
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
 
 </div>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=brunofariasdev&show_icons=true&theme=algolia&line_height=27">
+</p>
