@@ -22,7 +22,6 @@ Desenvolvedor Web com foco no FrontEnd , apaixonado por tecnologia amante de Jav
 
 
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
-![Node Badge](https://img.shields.io/badge/-Node-%23339933?logo=node.js&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/-GIT-%23F05032?logo=git&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
