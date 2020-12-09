@@ -4,7 +4,7 @@
 <p>
 I started programming with Javascript which is still my main language today but I also have a Java / Kotlin base but what just interested was the fron-end. I am currently looking for a vacancy for front-end developer.
 
-Main technology skills: Javascript, Reactjs , Vuejs
+Main technology skills: Javascript, Reactjs
 </p>
 
 <br><br><br><br><br>
