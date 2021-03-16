@@ -2,8 +2,7 @@
 <img align="right" width="200px" src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif">
 
 <p>
-I started programming with Javascript which is still my main language today but I also have a Java / Kotlin base but what just interested was the fron-end. I am currently looking for a vacancy for front-end developer.
-
+Desenvolvedor Front-end apaixonado por tecnologia
 Main technology skills: VueJs e ReactJs
 </p>
 
