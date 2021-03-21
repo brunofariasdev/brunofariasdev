@@ -1,33 +1,30 @@
+# 🧑🏾‍🦱 Bruno Farias
 
-<img align="right" width="200px" src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif">
-
-<p>
-Desenvolvedor Front-end apaixonado por tecnologia
-Main technology skills: VueJs e ReactJs
-</p>
-
-<br><br><br><br><br>
-
----
-
-## <img class="emoji" alt="hammer_and_wrench" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> Skills
-
-<br>
-<div>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
+[![Whatsapp Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunofarias_dev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofariasdev@gmail.com)
 
 
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-%231572B6?logo=css3&logoColor=white)
+    Olá meu nome é Bruno Farias, Desenvolvedor Front End futuro Full Stack.
+   
+   ### 🛠 Tecnologias e Ferramentas
 
-
-
-![Linux Badge](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=white)
-![GIT Badge](https://img.shields.io/badge/-GIT-%23F05032?logo=git&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
-
-</div>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=brunofariasdev&show_icons=true&theme=algolia&line_height=27">
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
+![Debian](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VsCode-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofariasdev&theme=radical&title_color=8E2DE2&text_color=fff)
