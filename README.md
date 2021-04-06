@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofariasdev@gmail.com)
 
 
-    Olá meu nome é Bruno Farias, Desenvolvedor Front End futuro Full Stack.
+    Olá meu nome é Bruno Farias, Desenvolvedor Front End futuro Engenheiro de Software.
    
    ### 🛠 Tecnologias e Ferramentas
 
