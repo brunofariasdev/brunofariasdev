@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofariasdev@gmail.com)
 
 
-    Olá meu nome é Bruno Farias, futuro Engenheiro de Software.
+    Olá meu nome é Bruno Farias,estou usando a tecnologia como ferramenta para agregar algo ao mundo.
    
    ### 🛠 Tecnologias e Ferramentas
 
